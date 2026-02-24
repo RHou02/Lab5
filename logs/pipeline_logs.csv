@@ -1,0 +1,4 @@
+timestamp,user, feature/query used, latency, returned record count,feature_or_query,latency_sec,returned_count
+2026-02-23T04:23:10.944176,DOANDU151121,,,,keyword_search,3.1451549530029297,48
+2026-02-23T04:27:31.839621,MANAN,,,,keyword_search,3.109307289123535,48
+2026-02-23T04:27:42.848465,MANAN,,,,keyword_search,1.3437037467956543,100
