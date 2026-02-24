@@ -53,9 +53,9 @@ streamlit run app/streamlit_app.py
 ```
 
 ## Extensions Completed
-- Extension 1:
-- Extension 2:
-- Extension 3: (if applicable)
+- Extension 1: Added the MASTER_CLAUSE table and implemented the JOIN query with our primary docs.
+- Extension 2: Created a Derived Analysis View (MASTER_CLAUSE_DATA) that cleans and prepares the contract data for the dashboard.
+- Extension 3: Enhanced our logging system to include Extra Logging Fields (tracking specific users and query types).
 
 ## Demo Video Link
 - 
